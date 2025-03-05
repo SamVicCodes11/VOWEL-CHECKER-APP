@@ -31,7 +31,7 @@ JavaScript – For logic and functionality.
 
 
 ## 🚀 Live Demo  
-🔗 [Visit the Website](https://calculator-rho-gules-96.vercel.app/)
+🔗 [Visit the Website](https://vowel-checker-app-phi.vercel.app/)
 
 
 
